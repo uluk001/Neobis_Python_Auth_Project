@@ -35,7 +35,7 @@ python manage.py runserver
 Now your project is available at http://127.0.0.1:8000/
 
 
-**Using**
+## Using
 
 The following functions are provided in the "Neobis_Python_Auth_Project" project:
 
@@ -48,7 +48,7 @@ The following functions are provided in the "Neobis_Python_Auth_Project" project
 
 
 
-**Screenshots**
+## Screenshots
 Login form
 
 <img width="1798" alt="image" src="https://github.com/uluk001/Neobis_Python_Auth_Project/assets/96724618/89a2cc44-4b85-4194-a22b-97d09a3752c5">
@@ -61,16 +61,15 @@ Email to
 
 <img width="739" alt="Снимок экрана 2023-07-20 в 6 21 17 AM" src="https://github.com/uluk001/Neobis_Python_Auth_Project/assets/96724618/5d9d0d48-f85d-4899-905f-0b06b0e229c5">  
 <br>
+
+
+## Contribution
 <br>
-<br>
-<br>
-**Contribution**
-<br>
-<br>
+
 Pull requests: If you have a desire to fix a bug, add a new feature or improve an existing one, or you can improve the current interface, you can fork the project, make your changes in a separate branch and invite us to make a pull request with your changes. We will look at your contribution and, if everything is in order, we will add it to the main project.
 <br>
-<br>
-**Author**  
+ 
+## Author
 
 [GitHub](https://github.com/uluk001)  
 [LinkedIn](https://www.linkedin.com/in/ismailov-uluk-92784a233/)
